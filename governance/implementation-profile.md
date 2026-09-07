@@ -1,6 +1,6 @@
 # Z Video Analysis Implementation Profile
 
-Date: 2026-09-07 | Agent: Cody | Status: Approved Build and Pilot Scope
+Date: 2026-09-07 | Agent: Cody | Status: Live and Verified
 
 ## Identity and Ownership
 
@@ -31,12 +31,11 @@ This repository contains original ZedBiz instructions and no copied third-party 
 
 ## Completion Evidence
 
-- Z AI Skill Developer structural validation passes.
+- Z AI Skill Developer structural validation passed.
 - Source files contain no obvious secret material or unsupported frontmatter.
 - References and companion links resolve.
-- Terry passes discovery, positive behaviour, boundary, companion, and failure tests first.
-- Harry and Rocky pass the approved repeat tests.
-- Deployed `SKILL.md` hashes match the committed source.
-- Notion SOP links to the authoritative GitHub skill.
-- GitHub issue records the commit, deployment, tests, failure details, and rollback locations.
-
+- Terry passed first. Harry and Rocky were deployed only after Terry passed.
+- Terry, Harry, and Rocky completed live full-video tests through Gemini.
+- Each agent returned timestamped visual evidence, uncertainty labels, and the correct companion-skill handoffs.
+- The deployed `SKILL.md` SHA-256 is `6ab36a45ac97eb153dfe67ec53fe71832fd93cce47043270bd0590b9b82d90f7` on all three agents.
+- The Notion SOP and GitHub issue link back to the authoritative repository.
