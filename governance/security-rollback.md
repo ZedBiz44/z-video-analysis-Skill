@@ -1,6 +1,6 @@
 # Security and Rollback Review
 
-Date: 2026-09-07 | Agent: Cody | Status: Required Before Release
+Date: 2026-09-07 | Agent: Cody | Status: Passed
 
 ## Security Review
 
@@ -30,3 +30,8 @@ Date: 2026-09-07 | Agent: Cody | Status: Required Before Release
 - Run skill discovery and a safe boundary prompt after restoration.
 - Record the reason, restored path, and final service health in GitHub issue 1.
 
+## Saved Backups
+
+- Terry: `/home/node/.openclaw/backups/20260907-142209-z-video-analysis-release`
+- Harry: `/root/.openclaw-harry/backups/20260907-142615-z-video-analysis-release`
+- Rocky: `/home/openclaw/.openclaw/backups/20260907-142615-z-video-analysis-release`
