@@ -9,21 +9,22 @@ Date: 2026-09-07 | Agent: Cody | Status: Live and Verified
 - Authoritative skill repository: https://github.com/ZedBiz44/z-video-analysis-Skill
 - MCP service and deployment source: https://github.com/ZedBiz44/ZedBiz-openclaw-ai-agents-vps1-vps2
 - Operational documentation: ZedBiz Notion Skills database
-- Tracking: https://github.com/ZedBiz44/z-video-analysis-Skill/issues/1
+- Current tracking: https://github.com/ZedBiz44/z-video-analysis-Skill/issues/2
+- Original pilot: https://github.com/ZedBiz44/z-video-analysis-Skill/issues/1
 
 This repository contains original ZedBiz instructions and no copied third-party code. External tools retain their own ownership and licences.
 
 ## Supported Platform and Pilot
 
-- Platform: OpenClaw
-- Pilot order: Terry first, then Harry and Rocky after Terry passes
+- Platforms: OpenClaw and Hermes
+- Original OpenClaw pilot order: Terry first, then Harry and Rocky after Terry passes
 - Current source scope: public YouTube through the Gemini MCP; authorized supplied files through available supporting tools with honest partial-coverage labels
 - Companions: `z-video-critique` and `z-graphic-production`
 - Retry limit: three failed attempts for the same source or verification step, with an earlier stop for cost, permission, or security uncertainty
 
 ## Authority and Security
 
-- Jack authorized the build, repository publication, installation, and tests on Terry, Harry, and Rocky.
+- Jack authorized the original build and pilot on Terry, Harry, and Rocky, followed by the current rollout to every active ZedBiz agent.
 - Existing protected credentials must remain in their approved secret route.
 - Do not print, copy, rotate, widen, or replace credentials.
 - Do not publish content, change source media, bypass restrictions, or start new paid services.
