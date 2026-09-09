@@ -128,4 +128,4 @@ Before finishing, confirm that:
 - Read [website interaction](references/website-interaction.md) for video-led pages and browser evidence.
 - Read [companion handoffs](references/companion-handoffs.md) for `z-video-critique` and `z-graphic-production` coordination.
 - Read [OpenClaw runtime](references/openclaw.md) for current ZedBiz tool mappings and runtime checks.
-
+- Read [Hermes runtime](references/hermes.md) when the active agent runs on Hermes rather than OpenClaw.
